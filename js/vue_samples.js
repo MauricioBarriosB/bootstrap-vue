@@ -88,4 +88,4 @@ var app6 = new Vue({
             return "Function Return String -> " + this.firstname + " -> " + this.lastname;
         }
     }
-})
+});
